@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.21.1/axios.js"></script>
+    <script src="https://unpkg.com/vue@next"></script>
+    <title>Energy</title>
+</head>
+<body>
+    <div id="app">
+<h1>Get All</h1>
+<button v-on:click="getAll()" class="btn btn-primary">Get All Wood Pallets</button>
+
+<div>
+    <h1>Add a Woodpallet</h1>
+    <input v-model="id" placeholder="Id" type="number"/>
+    <input v-model="brand" placeholder="Brand" type="text"/>
+    <input v-model="price" placeholder="Price" type="number"/>
+    <input v-model="quality" placeholder="quality" type="number"/>
+
+    <button v-on:click="addEnergy()" class="btn btn-warning">Add Energy</button>
+</div>
+
+
+<table class="table table-bordered table-hover table-striped" width="60%">
+        <thead>
+            <tr class="btn-secondary active">
+                <th>
+                    <div class="d-flex justify-content-between p-0">
+                        <div><h5>Id </h5></div>
+                        <div>
+                        <a data-toggle="tooltip" title="Sort By Id" asp-page-handler="SortById"><i class="fa fa-angle-up"></i></a>
+                            <a data-toggle="tooltip" title="Sort By Id Descending" asp-page-handler="SortByIdDescending"><i class="fa fa-angle-down"></i></a>
+                        </div>
+                    </div>
+                </th>
+                <th>
+                    <div class="d-flex justify-content-between p-0">
+                        <div>
+                            <h5>Brand</h5>
+                        </div>
+                        <div>
+                            <a data-toggle="tooltip" title="Sort By Name" asp-page-handler="SortByName"><i class="fa fa-angle-up"></i></a>
+                            <a data-toggle="tooltip" title="Sort By Name Descending" asp-page-handler="SortByNameDescending"><i class="fa fa-angle-down"></i></a>
+                        </div>
+                    </div>
+                   
+                </th>
+                <th>
+                    <div class="d-flex justify-content-between p-0">
+                        <div>
+                            <h5>Price</h5>
+                        </div>
+                        <div>
+                            <a data-toggle="tooltip" title="Sort By Name" asp-page-handler="SortByName"><i class="fa fa-angle-up"></i></a>
+                            <a data-toggle="tooltip" title="Sort By Name Descending" asp-page-handler="SortByNameDescending"><i class="fa fa-angle-down"></i></a>
+                        </div>
+                    </div>
+                   
+                </th>
+                <th>
+                    <div class="d-flex justify-content-between p-0">
+                        <div>
+                            <h5>Quality</h5>
+                        </div>
+                        <div>
+                            <a data-toggle="tooltip" title="Sort By Price" asp-page-handler="SortByPrice"><i class="fa fa-angle-up"></i></a>
+                            <a data-toggle="tooltip" title="Sort By Price Descending" asp-page-handler="SortByPriceDescending"><i class="fa fa-angle-down"></i></a>
+                        </div>
+                    </div>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr v-for="woodpallet in woodPallets">
+                <td>{{ woodpallet.id }}</td>
+                <td>{{ woodpallet.brand }}</td>
+                <td>{{ woodpallet.price }}</td>
+                <td>{{ woodpallet.quality }}</td>
+
+              </tr>
+        </tbody>
+    </table>
+
+
+
+<script src="index.js"></script>
+
+</body>
+</html> 
