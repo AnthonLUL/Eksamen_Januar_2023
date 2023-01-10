@@ -1,0 +1,13 @@
+C:\Users\arsh_\Desktop\eksamen\RestWoodPallets\RestWoodPallets\obj\Release\net6.0\PubTmp\Out\RestWoodPallets.exe
+C:\Users\arsh_\Desktop\eksamen\RestWoodPallets\RestWoodPallets\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\arsh_\Desktop\eksamen\RestWoodPallets\RestWoodPallets\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\arsh_\Desktop\eksamen\RestWoodPallets\RestWoodPallets\obj\Release\net6.0\PubTmp\Out\RestWoodPallets.dll
+C:\Users\arsh_\Desktop\eksamen\RestWoodPallets\RestWoodPallets\obj\Release\net6.0\PubTmp\Out\RestWoodPallets.deps.json
+C:\Users\arsh_\Desktop\eksamen\RestWoodPallets\RestWoodPallets\obj\Release\net6.0\PubTmp\Out\RestWoodPallets.runtimeconfig.json
+C:\Users\arsh_\Desktop\eksamen\RestWoodPallets\RestWoodPallets\obj\Release\net6.0\PubTmp\Out\RestWoodPallets.pdb
+C:\Users\arsh_\Desktop\eksamen\RestWoodPallets\RestWoodPallets\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\arsh_\Desktop\eksamen\RestWoodPallets\RestWoodPallets\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\arsh_\Desktop\eksamen\RestWoodPallets\RestWoodPallets\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\arsh_\Desktop\eksamen\RestWoodPallets\RestWoodPallets\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\arsh_\Desktop\eksamen\RestWoodPallets\RestWoodPallets\obj\Release\net6.0\PubTmp\Out\WoodPalletsLib.dll
+C:\Users\arsh_\Desktop\eksamen\RestWoodPallets\RestWoodPallets\obj\Release\net6.0\PubTmp\Out\WoodPalletsLib.pdb
