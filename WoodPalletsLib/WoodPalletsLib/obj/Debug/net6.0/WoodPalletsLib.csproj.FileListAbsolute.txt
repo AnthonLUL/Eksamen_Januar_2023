@@ -1,0 +1,12 @@
+C:\Users\arsh_\Desktop\eksamen\WoodPalletsLib\WoodPalletsLib\bin\Debug\net6.0\WoodPalletsLib.deps.json
+C:\Users\arsh_\Desktop\eksamen\WoodPalletsLib\WoodPalletsLib\bin\Debug\net6.0\WoodPalletsLib.dll
+C:\Users\arsh_\Desktop\eksamen\WoodPalletsLib\WoodPalletsLib\bin\Debug\net6.0\WoodPalletsLib.pdb
+C:\Users\arsh_\Desktop\eksamen\WoodPalletsLib\WoodPalletsLib\obj\Debug\net6.0\WoodPalletsLib.csproj.AssemblyReference.cache
+C:\Users\arsh_\Desktop\eksamen\WoodPalletsLib\WoodPalletsLib\obj\Debug\net6.0\WoodPalletsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsh_\Desktop\eksamen\WoodPalletsLib\WoodPalletsLib\obj\Debug\net6.0\WoodPalletsLib.AssemblyInfoInputs.cache
+C:\Users\arsh_\Desktop\eksamen\WoodPalletsLib\WoodPalletsLib\obj\Debug\net6.0\WoodPalletsLib.AssemblyInfo.cs
+C:\Users\arsh_\Desktop\eksamen\WoodPalletsLib\WoodPalletsLib\obj\Debug\net6.0\WoodPalletsLib.csproj.CoreCompileInputs.cache
+C:\Users\arsh_\Desktop\eksamen\WoodPalletsLib\WoodPalletsLib\obj\Debug\net6.0\WoodPalletsLib.dll
+C:\Users\arsh_\Desktop\eksamen\WoodPalletsLib\WoodPalletsLib\obj\Debug\net6.0\refint\WoodPalletsLib.dll
+C:\Users\arsh_\Desktop\eksamen\WoodPalletsLib\WoodPalletsLib\obj\Debug\net6.0\WoodPalletsLib.pdb
+C:\Users\arsh_\Desktop\eksamen\WoodPalletsLib\WoodPalletsLib\obj\Debug\net6.0\ref\WoodPalletsLib.dll
